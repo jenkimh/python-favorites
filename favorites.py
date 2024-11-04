@@ -32,5 +32,5 @@ fourth_question = "What is your favorite animal?"
 fourth_question_answer = "tiger"
 
 fifth_question = "What is your favorite programming language? (Hint: You can always say Python!!)"
-fifth_question_answer = "YOUR_ANSWER_HERE"
+fifth_question_answer = "JavaScript"
 
